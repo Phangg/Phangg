@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Phangg/Phangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+
 <a href="https://developer.apple.com/swift/resources/" target="_blank"><img src="https://img.shields.io/badge/Swift-000000?style=flat&logo=swift&logoColor=F05138"/></a>
+
+-->
