@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Phang's&nbsp;Github)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Phang's&nbsp;Github👋)
   
   ### 📱 Mobile Developer [ iOS / Android ]
   <a href="https://phangg.notion.site/e88a6e06032b43369ace761766e689b9?pvs=4)r" style="text-decoration: none; color: inherit; font-weight: bold;">
