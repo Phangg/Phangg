@@ -18,7 +18,7 @@ I've been working in the food service industry for about 4 years, starting with 
 
 ## Education & Experiences
 
-*   📱 멋쟁이사자처럼 iOS 앱스쿨 3기 ~ </br>
+*   📱 멋쟁이사자처럼 iOS 앱스쿨 3기 수료 </br>
 *   📱 네이버 부스트캠프 웹・모바일 8기 iOS 챌린지 과정 수료 </br>
 *   🖥️ 삼성 청년 SW 아카데미 8기 수료 </br>
 *   👨‍🍳 CNP F&B - 조리사 / 브랜드 관리팀 근무 </br>
