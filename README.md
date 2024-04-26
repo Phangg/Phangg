@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 iOS Developer
 -------------
 
-I've been working in the food service industry for about 4 years, starting with web front-end, then moving on to back-end and Android, and now progressing towards becoming an iOS developer.
+I've been working in the food service industry for about 4 years, starting with web, then moving on to Android, and now progressing towards becoming an iOS developer.
 
 *   🌍  I'm based in Seoul
 *   🖥️  See my portfolio at [Here! (Notion)](http://phangg.notion.site/ChangJun-Lee-e88a6e06032b43369ace761766e689b9)
