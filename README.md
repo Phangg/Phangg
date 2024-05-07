@@ -37,6 +37,10 @@ I've been working in the food service industry for about 4 years, starting with 
 </br>
 
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{username}"/>
+</a>
+
 <!--------------------
 
 <div align="center">
