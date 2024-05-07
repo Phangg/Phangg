@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/Phangg?pet-id=573542702178064971" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/Phangg?pet-id=573542702178064971" width="300" height="120"/>
 </a>
 
 
