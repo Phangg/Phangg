@@ -38,7 +38,7 @@ I've been working in the food service industry for about 4 years, starting with 
 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{username}"/>
+  <img src="https://render.gitanimals.org/farms/Phangg"/>
 </a>
 
 <!--------------------
