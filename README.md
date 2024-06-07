@@ -36,22 +36,16 @@ I've been working in the food service industry for about 4 years, starting with 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cj8787)](https://solved.ac/cj8787)
 </br>
 
+</br>
 
 <a href="https://github.com/devxb/gitanimals">
 <img
-    src="https://render.gitanimals.org/lines/Phangg?pet-id=586800834629404371"
-    width="500"
-    height="100"
-  />
-</br>
-<img
-    src="https://render.gitanimals.org/lines/Phangg?pet-id=586800834629404057"
-    width="500"
-    height="100"
-  />
-</a>
-</br>
+  src="https://render.gitanimals.org/farms/Phangg"
+  width="600"
+  height="300"
+/>
 
+</a>
   
 <!--------------------
 
