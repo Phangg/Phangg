@@ -7,7 +7,7 @@ iOS Developer
 I've been working in the food service industry for about 4 years, starting with web, then moving on to Android, and now progressing towards becoming an iOS developer.
 
 *   🌍  I'm based in Seoul
-*   🖥️  See my portfolio at [Here! (Notion)](http://phangg.notion.site/ChangJun-Lee-e88a6e06032b43369ace761766e689b9)
+*   🖥️  See my portfolio at [Here! (Notion)](https://bit.ly/changjunlee-resume)
 *   ✉️  You can contact me at [junphangg@gmail.com](mailto:junphangg@gmail.com)
 *   🧠  I'm learning All about iOS
 
