@@ -6,8 +6,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I've been working in the food service industry for about 4 years, and now progressing towards becoming an **iOS developer**.
 
 *   :kr:  I'm based in Seoul
-*   :  See my portfolio at [Here! (Notion)](https://bit.ly/changjunlee-resume)
-*   ✉️  You can contact me at [junphangg@gmail.com](mailto:junphangg@gmail.com)
+*   👨‍💻  See my portfolio at [Here! (Notion)](https://bit.ly/changjunlee-resume)
+*   📧  You can contact me at [junphangg@gmail.com](mailto:junphangg@gmail.com)
 *   🧠  I'm learning All about iOS
 
 ## Skills
