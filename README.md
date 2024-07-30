@@ -27,6 +27,23 @@ I've been working in the food service industry for about 4 years, and now progre
 *   👨‍🍳 CNP F&B - 조리사 / 브랜드 관리팀 근무 </br>
 *   👨‍🎓 건국대학교 국제지역문화학 졸업
 
+
+</br>
+<img
+  align="left"
+  src="https://render.gitanimals.org/farms/Phangg"
+  width="400"
+  height="250"
+/>
+
+<p align="right">
+	
+![Metrics](/github-metrics.svg)
+
+</p>
+
+
+<!--
 ## Badges
 
 <b>My GitHub Stats</b>
@@ -39,15 +56,4 @@ I've been working in the food service industry for about 4 years, and now progre
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cj8787)](https://solved.ac/cj8787)
 </br>
-
-<img
-  src="https://render.gitanimals.org/farms/Phangg"
-  width="400"
-  height="250"
-/>
-
-<p align="right">
-	
-![Metrics](/github-metrics.svg)
-
-</p>
+-->
