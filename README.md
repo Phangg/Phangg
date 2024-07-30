@@ -35,6 +35,7 @@ I've been working in the food service industry for about 4 years, and now progre
 <img
   align="left"
   src="https://render.gitanimals.org/farms/Phangg"
+  width="400"
   height="250"
 />
 
