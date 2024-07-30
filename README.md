@@ -1,3 +1,6 @@
+<img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPhangg%2Fhit-counter&count_bg=%23FE7A36&title_bg=%2344475a&icon=riotgames.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false">
+
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm ChangJun Lee. 
 ====================================================================================================================================
 
